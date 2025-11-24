@@ -1,0 +1,7 @@
+{
+  "name": "EduVerse AI Learning Hub",
+  "description": "An AI-powered application to summarize educational videos, generate quizzes, analyze images, and transcribe audio. It leverages Gemini to provide a multi-modal learning experience, supporting quality education.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
